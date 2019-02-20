@@ -1,0 +1,45 @@
+/**/
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    margin-bottom: 0.75em;
+    text-indent: 2%
+    }
+h1, h2, h3 {
+    text-align: center;
+    clear: both;
+    margin-top: 10%
+    }
+body {
+    margin-left: 2%;
+    margin-right: 2%;
+    background: #fdfdfd;
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-size: medium
+    }
+ul {
+    list-style-type: none;
+    text-indent: -1em
+    }
+a:link {
+    background-color: #fff;
+    color: blue;
+    text-decoration: none
+    }
+link {
+    background-color: #fff;
+    color: blue;
+    text-decoration: none
+    }
+a:visited {
+    background-color: #fff;
+    color: purple;
+    text-decoration: none
+    }
+a:hover {
+    background-color: #fff;
+    color: #F00;
+    text-decoration: underline
+    }
+/**/

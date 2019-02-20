@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/ebooks/10"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.4.0a5 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The King James Version of the Bible</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>The King James Version of the Bible</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-0.htm.html#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>The Old Testament of the King James Version of the Bible</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-0.htm.html#pgepubid00001"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>The First Book of Moses: Called Genesis</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-0.htm.html#pgepubid00002"/>
+      </navPoint>
+      <navPoint id="np-4" playOrder="4">
+        <navLabel>
+          <text>The Second Book of Moses: Called Exodus</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-3.htm.html#pgepubid00003"/>
+      </navPoint>
+      <navPoint id="np-5" playOrder="5">
+        <navLabel>
+          <text>The Third Book of Moses: Called Leviticus</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-6.htm.html#pgepubid00004"/>
+      </navPoint>
+      <navPoint id="np-6" playOrder="6">
+        <navLabel>
+          <text>The Fourth Book of Moses: Called Numbers</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-8.htm.html#pgepubid00005"/>
+      </navPoint>
+      <navPoint id="np-7" playOrder="7">
+        <navLabel>
+          <text>The Fifth Book of Moses: Called Deuteronomy</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-10.htm.html#pgepubid00006"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="8">
+        <navLabel>
+          <text>The Book of Joshua</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-13.htm.html#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="9">
+        <navLabel>
+          <text>The Book of Judges</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-14.htm.html#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="np-10" playOrder="10">
+        <navLabel>
+          <text>The Book of Ruth</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-16.htm.html#pgepubid00009"/>
+      </navPoint>
+      <navPoint id="np-11" playOrder="11">
+        <navLabel>
+          <text>The First Book of Samuel</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-16.htm.html#pgepubid00010"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="12">
+        <navLabel>
+          <text>The Second Book of Samuel</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-18.htm.html#pgepubid00011"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="13">
+        <navLabel>
+          <text>The First Book of the Kings</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-20.htm.html#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="14">
+        <navLabel>
+          <text>The Second Book of the Kings</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-22.htm.html#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="15">
+        <navLabel>
+          <text>The First Book of the Chronicles</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-23.htm.html#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="16">
+        <navLabel>
+          <text>The Second Book of the Chronicles</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-25.htm.html#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="17">
+        <navLabel>
+          <text>Ezra</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-27.htm.html#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="18">
+        <navLabel>
+          <text>The Book of Nehemiah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-28.htm.html#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="19">
+        <navLabel>
+          <text>The Book of Esther</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-29.htm.html#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="20">
+        <navLabel>
+          <text>The Book of Job</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-29.htm.html#pgepubid00019"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="21">
+        <navLabel>
+          <text>The Book of Psalms</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-31.htm.html#pgepubid00020"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="22">
+        <navLabel>
+          <text>The Proverbs</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-35.htm.html#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="23">
+        <navLabel>
+          <text>Ecclesiastes</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-37.htm.html#pgepubid00022"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="24">
+        <navLabel>
+          <text>The Song of Solomon</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-37.htm.html#pgepubid00023"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="25">
+        <navLabel>
+          <text>The Book of the Prophet Isaiah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-37.htm.html#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="26">
+        <navLabel>
+          <text>The Book of the Prophet Jeremiah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-40.htm.html#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="27">
+        <navLabel>
+          <text>The Lamentations of Jeremiah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-44.htm.html#pgepubid00026"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="28">
+        <navLabel>
+          <text>The Book of the Prophet Ezekiel</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-44.htm.html#pgepubid00027"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="29">
+        <navLabel>
+          <text>The Book of Daniel</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-47.htm.html#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="30">
+        <navLabel>
+          <text>Hosea</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-48.htm.html#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-31" playOrder="31">
+        <navLabel>
+          <text>Joel</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-49.htm.html#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-32" playOrder="32">
+        <navLabel>
+          <text>Amos</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-49.htm.html#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="33">
+        <navLabel>
+          <text>Obadiah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-49.htm.html#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="34">
+        <navLabel>
+          <text>Jonah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-49.htm.html#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="35">
+        <navLabel>
+          <text>Micah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-49.htm.html#pgepubid00034"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="36">
+        <navLabel>
+          <text>Nahum</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-50.htm.html#pgepubid00035"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="37">
+        <navLabel>
+          <text>Habakkuk</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-50.htm.html#pgepubid00036"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="38">
+        <navLabel>
+          <text>Zephaniah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-50.htm.html#pgepubid00037"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="39">
+        <navLabel>
+          <text>Haggai</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-50.htm.html#pgepubid00038"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="40">
+        <navLabel>
+          <text>Zechariah</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-50.htm.html#pgepubid00039"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="41">
+        <navLabel>
+          <text>Malachi</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-51.htm.html#pgepubid00040"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-42" playOrder="42">
+      <navLabel>
+        <text>The New Testament of the King James Bible</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-51.htm.html#pgepubid00041"/>
+      <navPoint id="np-43" playOrder="43">
+        <navLabel>
+          <text>The Gospel According to Saint Matthew</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-51.htm.html#pgepubid00042"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="44">
+        <navLabel>
+          <text>The Gospel According to Saint Mark</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-53.htm.html#pgepubid00043"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="45">
+        <navLabel>
+          <text>The Gospel According to Saint Luke</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-54.htm.html#pgepubid00044"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="46">
+        <navLabel>
+          <text>The Gospel According to Saint John</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-56.htm.html#pgepubid00045"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="47">
+        <navLabel>
+          <text>The Acts of the Apostles</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-58.htm.html#pgepubid00046"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="48">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to the Romans</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-60.htm.html#pgepubid00047"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="49">
+        <navLabel>
+          <text>The First Epistle of Paul the Apostle to the Corinthians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-61.htm.html#pgepubid00048"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="50">
+        <navLabel>
+          <text>The Second Epistle of Paul the Apostle to the Corinthians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-62.htm.html#pgepubid00049"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="51">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to the Galatians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-62.htm.html#pgepubid00050"/>
+      </navPoint>
+      <navPoint id="np-52" playOrder="52">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to the Ephesians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-62.htm.html#pgepubid00051"/>
+      </navPoint>
+      <navPoint id="np-53" playOrder="53">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to the Philippians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-63.htm.html#pgepubid00052"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="54">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to the Colossians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-63.htm.html#pgepubid00053"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="55">
+        <navLabel>
+          <text>The First Epistle of Paul the Apostle to the Thessalonians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-63.htm.html#pgepubid00054"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="56">
+        <navLabel>
+          <text>The Second Epistle of Paul the Apostle to the Thessalonians</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-63.htm.html#pgepubid00055"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="57">
+        <navLabel>
+          <text>The First Epistle of Paul the Apostle to Timothy</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-63.htm.html#pgepubid00056"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="58">
+        <navLabel>
+          <text>The Second Epistle of Paul the Apostle to Timothy</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-63.htm.html#pgepubid00057"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="59">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to Titus</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-64.htm.html#pgepubid00058"/>
+      </navPoint>
+      <navPoint id="np-60" playOrder="60">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to Philemon</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-64.htm.html#pgepubid00059"/>
+      </navPoint>
+      <navPoint id="np-61" playOrder="61">
+        <navLabel>
+          <text>The Epistle of Paul the Apostle to the Hebrews</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-64.htm.html#pgepubid00060"/>
+      </navPoint>
+      <navPoint id="np-62" playOrder="62">
+        <navLabel>
+          <text>The General Epistle of James</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-64.htm.html#pgepubid00061"/>
+      </navPoint>
+      <navPoint id="np-63" playOrder="63">
+        <navLabel>
+          <text>The First Epistle General of Peter</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-64.htm.html#pgepubid00062"/>
+      </navPoint>
+      <navPoint id="np-64" playOrder="64">
+        <navLabel>
+          <text>The Second General Epistle of Peter</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-65.htm.html#pgepubid00063"/>
+      </navPoint>
+      <navPoint id="np-65" playOrder="65">
+        <navLabel>
+          <text>The First Epistle General of John</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-65.htm.html#pgepubid00064"/>
+      </navPoint>
+      <navPoint id="np-66" playOrder="66">
+        <navLabel>
+          <text>The Second Epistle General of John</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-65.htm.html#pgepubid00065"/>
+      </navPoint>
+      <navPoint id="np-67" playOrder="67">
+        <navLabel>
+          <text>The Third Epistle General of John</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-65.htm.html#pgepubid00066"/>
+      </navPoint>
+      <navPoint id="np-68" playOrder="68">
+        <navLabel>
+          <text>The General Epistle of Jude</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-65.htm.html#pgepubid00067"/>
+      </navPoint>
+      <navPoint id="np-69" playOrder="69">
+        <navLabel>
+          <text>The Revelation of Saint John the Devine</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@10@10-h@10-h-65.htm.html#pgepubid00068"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
