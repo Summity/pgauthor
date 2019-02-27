@@ -36,16 +36,15 @@ def even_word(leng):
     return rank_word
 
 
-def even_nword(leng):
+def even_nword(leng, ngram):
     ## get ten most evenly distributed words and variated ones
-    ngram = 6
     loc0 = er.Location([1, 1, 1])
     loc1 = er.Location([100, 100, 100])
 
     text, punc_text = er.get_range_text(er.filenum, loc0, loc1)
     count = rf.word_count(text)
-    ## cut texts into chunks of length leng
 
+    ## cut texts into chunks of length leng
     nwordcv = dict()
     nwordcv0 = dict()
     nwordcv1 = dict()
@@ -88,7 +87,7 @@ def csv_writer(ranks, csvfile):
             if num > 25:
                 break
 
-    print '\nTop 25 word or phrase that are unevenly distributed:'
+    print '\nTop 25 word or phrase that are unevenly distributed:\n'
     for rank in ranks[-25: ]:
         nword = str(rank[0])
         top_uneven.append(nword)
@@ -101,9 +100,9 @@ def csv_writer(ranks, csvfile):
     return top_even, top_uneven
 
 
-def rank_writer(leng):
+def rank_writer(leng, ngram):
     ## leng can either be word number or string 'book'
-    ranks, ranks0, ranks1 = even_nword(leng)
+    ranks, ranks0, ranks1 = even_nword(leng, ngram)
     if any(ranks):
         with open('../doc/rank_nword/rank_nword_' + str(leng) + '.csv', 'wb') as csvfile:
             csv_writer(ranks, csvfile)
@@ -125,4 +124,4 @@ def multicore_rank_writer(core, leng):
 
 if __name__ == "__main__":
     # multicore_rank_writer(6, numpy.arange(1000,11000,1000))
-    rank_writer('book')
+    rank_writer('book', 1)

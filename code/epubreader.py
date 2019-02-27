@@ -151,8 +151,8 @@ def get_range_text(filenum, loc0, loc1):
     strloc0 = str(loc0.loclist[1]) + ':' + str(loc0.loclist[2])
     strloc1 = str(loc1.loclist[1]) + ':' + str(loc1.loclist[2] + 1)
 
-    if loc1.loclist[0] > 65:
-        print 'Warning: the BookID is out of range, will include all words to the end of Bible.'
+    # if loc1.loclist[0] > 65:
+    #     print 'Warning: the BookID is out of range, will include all words to the end of Bible.'
 
     try:
         if book_text(all_text, loc0.loclist[0]).find(strloc0) == -1:
